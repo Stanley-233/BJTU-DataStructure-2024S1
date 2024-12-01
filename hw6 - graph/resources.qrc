@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imgs/spots.png</file>
+        <file>imgs/sy.jpg</file>
+        <file>bjtu_travel.db</file>
+    </qresource>
+</RCC>
